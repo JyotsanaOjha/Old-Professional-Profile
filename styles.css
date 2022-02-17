@@ -1,0 +1,29 @@
+ body {
+background-color: lightcyan;
+ }
+
+ /* .hr{
+     border-style: none;
+     border-top-style:dotted;
+     border-color: gray;
+     border-width: 5px;
+     width: 7%;
+
+ }
+
+ .hr{
+
+    border: 1px solid gray ;
+     border-radius: 5px;
+
+
+ } */
+
+ .hrbig{
+     border: 2px gray solid;
+     border-radius: 5px;
+
+ }
+ 
+
+
